@@ -32,9 +32,9 @@ Each snippet:
 
 | File                              | توضیح                             |
 | --------------------------------- | --------------------------------- |
-| `200_weird_python_snippets_fa.md` | شامل ۲۰۰ قطعه کد با توضیحات فارسی |
+| `200_weird_python_snippets.ipynb` | شامل ۲۰۰ قطعه کد با توضیحات فارسی |
 | `README.md`                       | فایل توضیحات اصلی (همین فایل)     |
-| *(Coming soon)* `examples/`       | نمونه خروجی‌ها و کدهای تصویری     |
+
 
 ---
 
@@ -60,7 +60,7 @@ This project creatively mixes many core Python ideas, including:
 1. Download the main file / فایل اصلی را دانلود کنید:
 
    ```bash
-   200_weird_python_snippets_fa.md
+   200_weird_python_snippets.ipynb
    ```
 2. Copy and run any snippet / یکی از کدها را در پایتون اجرا کنید:
 
